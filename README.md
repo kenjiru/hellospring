@@ -4,6 +4,7 @@ This is a simple Hello World project that represents the skeleton of a typical
 Spring application.
 
 It uses the following technologies:
+
 * Maven 3
 * JSF 2
 * Spring 3
