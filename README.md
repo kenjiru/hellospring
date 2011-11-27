@@ -1,6 +1,5 @@
 HelloSpring
 ===========
-
 This is a simple Hello World project that represents the skeleton of a typical 
 Spring application.
 
